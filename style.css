@@ -1,0 +1,30 @@
+body{
+  background-color:#22224d;
+  color: white;
+  font-family: sans-serif; 
+  }
+h1{
+    color:white;
+    text-align: center;
+}
+img{
+    height: auto;
+    width: auto;
+    max-height: 111px;
+    max-width: 111px;
+}
+main{
+     text-align: justify;
+}
+h4{
+    color: rgb(55, 228, 190);
+}
+h2{
+    color: rgb(16, 104, 84);
+}
+a{
+    color:rgb(55, 228, 190);
+}
+img, h1{
+    background-image: url("https://previews.123rf.com/images/supernam/supernam1708/supernam170800026/83291524-fondo-de-c%C3%B3digo-de-programaci%C3%B3n-de-computadora-de-software.jpg");
+}
